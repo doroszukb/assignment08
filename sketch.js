@@ -24,7 +24,7 @@ pk[i]=0;
 tList[i]=random(3.5,5)
 }
 cnv.mouseClicked(changeGray);
-setShakeThreshold(140);
+setShakeThreshold(30);
 mySong.play()
  d = 10;
 }
